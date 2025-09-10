@@ -4,6 +4,18 @@ A simple **Ping-Pong game** built in **C++** using the **Raylib** library.
 Enjoy classic Pong gameplay with smooth controls and a CPU opponent! 🎮  
 
 ---
+## ⚡ Quick Start  
+
+1. Complete the **Setup Guide** .
+2. Clone this repository:  
+   ```bash
+   git clone https://github.com/amancod/ping-pong.git
+   ```
+3. Open the ping-pong.sln file in Visual Studio.
+4. Press CTRL + F5 to build and run the project.
+
+🎉 Congratulations! Your Ping-Pong game is up and running.
+---
 
 ## 🚀 Features
 - Classic Pong gameplay 🎾  
