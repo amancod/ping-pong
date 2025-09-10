@@ -15,6 +15,7 @@ Enjoy classic Pong gameplay with smooth controls and a CPU opponent! 🎮
 4. Press CTRL + F5 to build and run the project.
 
 🎉 Congratulations! Your Ping-Pong game is up and running.
+
 ---
 
 ## 🚀 Features
