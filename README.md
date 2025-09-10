@@ -99,7 +99,8 @@ int main() {
 
 ## 📸 Preview
 
-<img width="1284" height="837" alt="image" src="https://github.com/user-attachments/assets/582f42c3-4403-43b1-a45e-f442aaddcd73" />
+<img width="1279" height="832" alt="image" src="https://github.com/user-attachments/assets/0e8f38db-ea1e-4cf4-ab08-994fcd449860" />
+
 
 ---
 
